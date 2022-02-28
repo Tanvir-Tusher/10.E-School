@@ -1,0 +1,125 @@
+.container {
+    margin-bottom: 100px;
+}
+
+.container-fluid {
+    margin-top: 20px;
+}
+.home{
+    padding-top:1%;
+    background-color: #F0FFF0;
+}
+.container ul li{
+    padding-left: 48px;
+    font-weight: 400px;
+    font-family: poppins;
+}
+
+.get-started {
+    background-color: #21B573;
+    color: white;
+    height: 43px;
+    width: 153px;
+    left: 205px;
+    top: 470px;
+    border-radius: 33px;
+    padding: 12px, 36px, 12px, 36px;
+    border: none;
+}
+.sign-in{
+    background-color: #21B573;
+    color: white;
+    height: 43px;
+    width: 104px;
+    left: 1201px;
+    top: 25px;
+    border-radius: 33px;
+    padding: 12px, 28px, 12px, 28px;
+    border: none;
+    margin-left: 30px;
+}
+
+.home h1{
+    font-family: Poppins;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: 70px;
+letter-spacing: 0em;
+text-align: left;
+}
+.home span{
+    color: #21B573;
+}
+.icon-1{
+    height: 270px;
+    width: 270px;
+    margin: 30px; 
+    border-radius: 10px;
+    background: #F8FFFB;
+    border-radius: 10px;
+    text-align: center;
+    align-items: center;
+    padding-top: 40px;
+    }
+.icon-2{
+height: 270px;
+width: 270px;
+margin: 30px; 
+border-radius: 10px;
+background: #FFFFFF;
+box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+border-radius: 10px;
+text-align: center;
+align-items: center;
+padding-top: 40px;
+}
+
+.icon-1 img, .icon-2 img{
+    padding-bottom: 25px;
+}
+
+.online h2{
+    font-weight: 700px;
+    font-family: poppins;
+    text-align: center;
+}
+.testimonial img{
+ padding-right: 52px;
+}
+.testimonial h2{
+    font-weight: 700px;
+    font-family: poppins;
+    text-align: center;
+}
+.testimonial p{
+    font-family: poppins;
+    font-weight: 400;
+    font-style: normal;
+}
+.card{
+    padding: 15px;
+    border-radius:15px;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
+}
+.card-footer{
+    border-top: none;
+    background-color: white;
+}
+.footer{
+height: 369px;
+width: 1463px;
+background: #282531;;
+color: white;
+
+padding-left: 50px;
+padding-top: 48px;
+}
+.footer .pgraph p{
+    padding-right: 50px;
+}
+footer{
+    padding-top: 35px;
+    text-align: center;
+}
